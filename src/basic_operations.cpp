@@ -1,5 +1,8 @@
 #include "ganit/basic_operations.hpp"
 #include <vector>
+#include <stdexcept>
+
+
 namespace ganit {
 
 int add(int a, int b) {
