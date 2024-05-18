@@ -24,6 +24,8 @@ double vec_dot(const std::vector<double>& vec);
 int div(int a, int b);
 double div(double a, double b);
 
+int modulusInt(int a, int b);
+double modulusFloat(double a, double b);
 
 
 } // namespace ganit
