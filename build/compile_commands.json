@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/abhigyan/Downloads/Github_Library/ganit/build",
+  "command": "/usr/bin/clang++  -I/Users/abhigyan/Downloads/Github_Library/ganit/include -g -std=gnu++11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/ganit.dir/src/basic_operations.cpp.o -c /Users/abhigyan/Downloads/Github_Library/ganit/src/basic_operations.cpp",
+  "file": "/Users/abhigyan/Downloads/Github_Library/ganit/src/basic_operations.cpp",
+  "output": "CMakeFiles/ganit.dir/src/basic_operations.cpp.o"
+},
+{
+  "directory": "/Users/abhigyan/Downloads/Github_Library/ganit/build",
+  "command": "/usr/bin/clang++  -I/Users/abhigyan/Downloads/Github_Library/ganit/include -g -std=gnu++11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/test_basic_operations.dir/test/test_basic_operations.cpp.o -c /Users/abhigyan/Downloads/Github_Library/ganit/test/test_basic_operations.cpp",
+  "file": "/Users/abhigyan/Downloads/Github_Library/ganit/test/test_basic_operations.cpp",
+  "output": "CMakeFiles/test_basic_operations.dir/test/test_basic_operations.cpp.o"
+}
+]

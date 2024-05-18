@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_basic_operations.dir/test/test_basic_operations.cpp.o -o test_basic_operations  libganit.a

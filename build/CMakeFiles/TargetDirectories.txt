@@ -1,0 +1,4 @@
+/Users/abhigyan/Downloads/Github_Library/ganit/build/CMakeFiles/ganit.dir
+/Users/abhigyan/Downloads/Github_Library/ganit/build/CMakeFiles/test_basic_operations.dir
+/Users/abhigyan/Downloads/Github_Library/ganit/build/CMakeFiles/edit_cache.dir
+/Users/abhigyan/Downloads/Github_Library/ganit/build/CMakeFiles/rebuild_cache.dir
