@@ -36,17 +36,17 @@ int main() {
     std::cout << "Subtraction of {1.1, 2.2, 3.3, 4.4} from 0 = " << double_vec_result << std::endl;
 
     // Test dot product
-    int_result = dot(3, 4);
+    int_result = cross(3, 4);
     std::cout << "3 * 4 = " << int_result << std::endl;
 
-    double_result = dot(3.5, 4.2);
+    double_result = cross(3.5, 4.2);
     std::cout << "3.5 * 4.2 = " << double_result << std::endl;
 
     // Test vector dot product
-    int_vec_result = vec_dot(int_vec);
+    int_vec_result = vec_cross(int_vec);
     std::cout << "Dot product of {1, 2, 3, 4} = " << int_vec_result << std::endl;
 
-    double_vec_result = vec_dot(double_vec);
+    double_vec_result = vec_cross(double_vec);
     std::cout << "Dot product of {1.1, 2.2, 3.3, 4.4} = " << double_vec_result << std::endl;
 
     // Test division
@@ -57,10 +57,10 @@ int main() {
     std::cout << "7.5 / 2.5 = " << double_result << std::endl;
 
     // Test modulus
-    int_result = modulusInt(10, 3);
+    int_result = modulus(10, 3);
     std::cout << "10 % 3 = " << int_result << std::endl;
 
-    double_result = modulusFloat(10.5, 3.2);
+    double_result = modulus(10.5, 3.2);
     std::cout << "10.5 % 3.2 = " << double_result << std::endl;
 
     return 0;
