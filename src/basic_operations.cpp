@@ -154,7 +154,7 @@ double pow(double base, double exponent) {
     return result;
 }
 
-double roo2(double x) {
+double root2(double x) {
     if (x < 0) {
         // Handle error: square root of negative number is undefined
         return -1; // Return a sentinel value indicating error

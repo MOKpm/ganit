@@ -45,7 +45,7 @@ double logx(double x, double y);
 double pow(double x, double y);
 double root2(double x);
 double root3(double x);
-double rootx(double x);
+double rootx(double x, int y);
 
 //trignometry
 
